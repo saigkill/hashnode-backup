@@ -1,17 +1,10 @@
 ## Animated Typing Utility with JavaScript
 
----
-title: Animated Typing Utility with JavaScript
-published: true
-tags: Opensource,JavaScript,Web Development
-canonical_url: 
----
-
 Ever wished a animated typing effect in your webproject? If yes, you should definitive check out the typit.js library. Last days i stumbled upon that interesting library.
 
 The effect looks like:
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1610912272420/8mrlr5nqd.plain)
+![(https://cdn.hashnode.com/res/hashnode/image/upload/v1610912272420/8mrlr5nqd.plain)
 
 How could you implement it?
 

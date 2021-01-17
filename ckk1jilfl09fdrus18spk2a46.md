@@ -1,12 +1,5 @@
 ## Adding a estimated time to read to a .NET Core Blog with Razor
 
----
-title: Adding a estimated time to read to a .NET Core Blog with Razor
-published: true
-tags: Development,Opensource,DotNetCore
-canonical_url: 
----
-
 This week i implemented a feature what shows you, how many time you have to spend, to read a blog article. ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1610912171513/3nMbRagan.html)
 
 In the first step, i used my model BlogStory to get the content. Then Razor does the following:
